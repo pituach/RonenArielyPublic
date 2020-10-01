@@ -1,0 +1,1 @@
+Since Microsoft decided to close the TechNet Gallary and the MSDN Code sites, I lost a lot of my works which I shared with the community. In this folder I will collect some old lectures and code I shared in the past. 
