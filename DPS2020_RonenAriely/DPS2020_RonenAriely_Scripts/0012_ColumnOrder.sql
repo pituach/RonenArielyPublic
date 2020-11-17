@@ -61,9 +61,6 @@ GO
 /****************************************** Playing End Here */
 /**********************************************************  */
 
--->> "The column order is just a "cosmetic" thing we humans care about" ?!?
--- https://stackoverflow.com/questions/1605144/how-to-change-column-order-in-a-table-using-sql-query-in-sql-server-2005/1605167
--- https://social.msdn.microsoft.com/Forums/en-US/dfcc13cf-d852-4908-90ad-da24dfb5179b/order-of-columns?forum=sqlgetstarted
 
 PRINT 'END!'
 GO
