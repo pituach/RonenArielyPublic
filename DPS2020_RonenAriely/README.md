@@ -1,1 +1,0 @@
-Scrips from the session
